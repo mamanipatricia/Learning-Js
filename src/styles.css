@@ -1,3 +1,14 @@
 body {
   font-family: sans-serif;
 }
+
+.block{
+  display: block;
+  margin-bottom: 15px;
+}
+
+.form-input {
+  padding: 6px 8px;
+  border: 1px solid gray;
+  border-radius: .5rem;
+}
